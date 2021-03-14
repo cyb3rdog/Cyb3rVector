@@ -1,0 +1,20 @@
+<div>
+    <div id="loading" class="loading css-pulsing-color">Generating new blocks, please wait...</div>
+    <div style="height:55vh;padding-left:0">
+        <div id="blocklyDiv" style="height:100%;width:100%">
+        </div>
+    </div>
+    <div>
+        <div style="padding:8px;">
+            <a class="btn btn-primary" href="javascript:void(0);" onclick="evalProgram()">Run</a>
+        </div>
+        <div style="padding:8px;">
+            <h3>Output from the Interpreter</h3>
+            <pre id="output" style="padding: 24px;background: #212529;color: whitesmoke;border-radius: 4px;"></pre>
+        </div>
+    </div>
+</div>
+
+<script src="scripts/workspace.js"></script>
+<script src="scripts/workspace_entry.js"></script>
+<script src="_framework/blazor.webassembly.js"></script>

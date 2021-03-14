@@ -1,1 +1,15 @@
+include:
+  - _framework
+  - _bin
+
+author: cyb3rdog
 theme: jekyll-theme-midnight
+show_downloads: false
+show_repository: true
+gems:
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - jemoji
+plugins:
+  - jekyll-redirect-from
+  - jemoji

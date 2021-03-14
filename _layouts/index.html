@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>IronBlock Blazor Sample</title>
+    <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
+
+    <script src="blockly/blockly_compressed.js"></script>
+    <script src="blockly/blocks_compressed.js"></script>
+    <script src="blockly/factory_compressed.js"></script>
+    <script src="blockly/date_compressed.js "></script>
+
+    <script src="blockly/javascript_compressed.js"></script>
+    <script src="blockly/python_compressed.js"></script>
+    <script src="blockly/msg/js/en.js"></script>
+    <script src="data/msg/js/en.js"></script>
+
+    <script src="scripts/prettify_compiled.js"></script>
+    <script src="scripts/acorn_compiled.js"></script>
+
+    <link href="blockly/styles/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <div>
+
+        {{ content }}
+
+        <div style="height:55vh;padding-left:0">
+            <div id="blocklyDiv" style="height:100%;width:100%">
+            </div>
+        </div>
+        <div>
+            <div style="padding:8px;">
+                <a class="btn btn-primary" href="javascript:void(0);" onclick="evalProgram()">Run</a>
+            </div>
+            <div style="padding:8px;">
+                <h3>Output from the Interpreter</h3>
+                <pre id="output" style="padding: 24px;background: #212529;color: whitesmoke;border-radius: 4px;"></pre>
+            </div>
+        </div>
+    </div>
+
+    <script src="scripts/workspace.js"></script>
+    <script src="scripts/workspace_entry.js"></script>
+    <script src="_framework/blazor.webassembly.js"></script>
+</body>
+
+</html>
