@@ -32,13 +32,6 @@ The application is designed to be intuitive, simple enough, fun and educational,
 - 🏁 ***Release a Beta Version***
 - 🏁 ***Release the final Version***
 
-#### Backend Infrastructure:
-- ✔️ Get Server and Public domain
-- ✔️ Server site for Downloads
-- ✔️ Server site for Feedbacks
-- 🏁 ***Public Website***
-- 🏁 ***Cover the Server costs***
-
 #### Vector's Codelab:
 - ✔️ Custom Blocks support
 - ✔️ Fully dynamic Generator of Blocks
@@ -61,6 +54,13 @@ The application is designed to be intuitive, simple enough, fun and educational,
 - 🏁 ***Background programs Task Manager and Scheduler***
 - 🏁 ***Community Library: Sharing Block programs via the Server***
 - 🏁 ***Rating system for Blocks programs made by other users***
+
+#### Backend Infrastructure:
+- ✔️ Get Server and Public domain
+- ✔️ Server site for Downloads
+- ✔️ Server site for Feedbacks
+- 🏁 ***Public Website***
+- 🏁 ***Cover the Server costs***
 
 
 ## Phase II. - Cyb3rVector's Online Codelab

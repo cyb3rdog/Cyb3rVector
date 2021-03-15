@@ -4,12 +4,17 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.9.48] - 2021-03-12
+## [0.9.48] - 2021-03-15
+
+### Released [0.9.48-alpha](https://github.com/cyb3rdog/Cyb3rV3ctor/releases/tag/v0.9.48)
 
 - Added application Updater to Help & About
 - Added application Settings for Update channel (disabled/stable/devel)
 - Added Server support for update installer downloads
 - Added Knowledge base of known Vector Error Codes
+- Added [Cyb3rVector GitHub site](https://cyb3rdog.github.io/Cyb3rVector/)
+- Added [Online CodeLab demo](https://cyb3rdog.github.io/Cyb3rVector/codelab.html)
+- Added [ROAD MAP](https://github.com/cyb3rdog/Cyb3rVector/blob/main/ROADMAP.md)
 
 ## [0.9.47] - 2021-03-11
 
