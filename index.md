@@ -1,8 +1,14 @@
----
+﻿---
 layout: default
 ---
 
 ### Welcome to Cyb3rVector CodeLab Project
+
+The ultimate goal of this Project is to finish this educational Application to enable anyone to use the **Vector's SDK** even without the technical background or programming skills.
+Main instrument to achieve this goal is called **Vector's CodeLab** - a Blockly based coding enviroment which allows executing various commands through creating a simple programs by stacking graphical blocks together.
+This **CodeLab enviroment** and **Vector Robot** combined creates an ideal platform for young to develop their skills and love towards technology and robotics.
+I want this software to be available to anyone for free of charge, as I believe the education should be playful and free.
+
 
 # ROAD MAP
 
@@ -12,9 +18,7 @@ This document describes the goals of the Cyb3rVector project
 
 ## Phase I. - Cyb3rVector
 
-The ultimate goal of this Project is to finish this educational Application to enable people to use the **Vector's SDK** even without the technical background or programming skills.
-Main instrument to achieve this goal is called **Vector's CodeLab** - Blockly based coding enviroment which allows executing various commands through creating a simple programs by stacking blocks together.
-The application is designed to be intuitive, simple enough, fun and educational, allowing everyone to develop their technical and coding skills, through pure enjoyment of the Play with the Vector robot.
+Goal of this phase is to design the application to be intuitive, simple enough, fun and educational, allowing everyone to develop their technical and coding skills, through pure enjoyment of the Play with the Vector robot.
 
 ### Road map of Phase I.
 
