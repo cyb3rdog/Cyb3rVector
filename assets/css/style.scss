@@ -761,36 +761,6 @@ section #title .credits.right {
     float: right
 }
 
-@media print, screen and (max-width: 720px) {
-    #title .credits {
-        display: block;
-        width: 100%;
-        line-height: 30px;
-        text-align: center
-    }
-
-    #title .credits .left {
-        float: none;
-        display: block
-    }
-
-    #title .credits .right {
-        float: none;
-        display: block
-    }
-}
-
-@media print, screen and (max-width: 480px) {
-    #header {
-        margin-top: 0px
-    }
-    body {
-        font-size: 14px;
-    }
-    #header .downloads, #header .title {
-        display: none;
-    }
-}
 
 .loading {
     font-size: 17px;
@@ -893,4 +863,60 @@ fieldset:disabled a.btn {
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
 .show > .btn-primary.dropdown-toggle:focus {
     box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
+}
+
+/* thumbnails */
+.thumbnails {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.thumbnail_img {
+    margin: 0.1%;
+    width: 49%;
+}
+.greater_image {
+    position: relative;
+    display: block;
+    min-width: 126%;
+    left: -13%;
+}
+
+
+@media print, screen and (max-width: 720px) {
+    #title .credits {
+        display: block;
+        width: 100%;
+        line-height: 30px;
+        text-align: center
+    }
+
+    #title .credits .left {
+        float: none;
+        display: block
+    }
+
+    #title .credits .right {
+        float: none;
+        display: block
+    }
+
+    .greater_image {
+        min-width: 100%;
+        left: 0%;
+    }
+}
+
+@media print, screen and (max-width: 480px) {
+    #header {
+        margin-top: 0px
+    }
+
+    body {
+        font-size: 14px;
+    }
+
+    #header .downloads, #header .title {
+        display: none;
+    }
 }

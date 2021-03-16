@@ -2,25 +2,37 @@
 layout: default
 ---
 
-### Welcome to Cyb3rVector CodeLab Project
+# Welcome to Cyb3rVector's CodeLab Project
 
 The ultimate goal of this Project is to finish this educational Application to enable anyone to use the **Vector's SDK** even without the technical background or programming skills.
 Main instrument to achieve this goal is called **Vector's CodeLab** - a Blockly based coding enviroment which allows executing various commands through creating a simple programs by stacking graphical blocks together.
 This **CodeLab enviroment** and **Vector Robot** combined creates an ideal platform for young to develop their skills and love towards technology and robotics.
-I want this software to be available to anyone for free of charge, as I believe the education should be playful and free.
+I want this software to be available to anyone for free of charge, as I believe the education should be fun, playful and free.
 
+Take a look at some screenshots from the application:
 
-# ROAD MAP
+{::options parse_block_html="true" /}
+<div class="thumbnails">
+{::options parse_block_html="false" /}
+[![Screenshot 01](./assets/images/screen_01.jpg){: .thumbnail_img}](./screenshots.html)
+[![Screenshot 02](./assets/images/screen_02.jpg){: .thumbnail_img}](./screenshots.html)
+[![Screenshot 03](./assets/images/screen_03.jpg){: .thumbnail_img}](./screenshots.html)
+[![Screenshot 04](./assets/images/screen_04.jpg){: .thumbnail_img}](./screenshots.html)
+{::options parse_block_html="true" /}
+</div><p></p>
+{::options parse_block_html="false" /}
 
-This document describes the goals of the Cyb3rVector project
-- All completed road map milestones are marked with: ✔️
-- Unfinished road map milestones are marked with:   🏁
+# ROADMAP
+
+This document describes the milestones of the Cyb3rVector project:
+- All completed roadmap milestones are marked with: ✔️
+- Unfinished roadmap milestones are marked with:   🏁
 
 ## Phase I. - Cyb3rVector
 
 Goal of this phase is to design the application to be intuitive, simple enough, fun and educational, allowing everyone to develop their technical and coding skills, through pure enjoyment of the Play with the Vector robot.
 
-### Road map of Phase I.
+### Roadmap of Phase I.
 
 #### Application features:
 - ✔️ &nbsp; Build an Application Core
