@@ -4,12 +4,16 @@ include:
 
 author: cyb3rdog
 theme: jekyll-theme-midnight
-show_downloads: false
+show_downloads: true
 show_repository: true
+app_installer_url: "http://vector.phact.cz/download/Cyb3rVector-v0.9.48.msi"
+app_portable_url: "http://vector.phact.cz/download/Cyb3rVector-v0.9.48.zip"
 gems:
   - jekyll-redirect-from
+  - jekyll-target-blank
   - jekyll-paginate
   - jemoji
 plugins:
   - jekyll-redirect-from
+  - jekyll-target-blank
   - jemoji

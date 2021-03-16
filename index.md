@@ -7,8 +7,8 @@ layout: default
 # ROAD MAP
 
 This document describes the goals of the Cyb3rVector project
-- • All completed road map milestones are marked with: ✔️
-- • Unfinished road map milestones are marked with:   🏁
+- All completed road map milestones are marked with: ✔️
+- Unfinished road map milestones are marked with:   🏁
 
 ## Phase I. - Cyb3rVector
 
@@ -37,13 +37,6 @@ The application is designed to be intuitive, simple enough, fun and educational,
 - 🏁 &nbsp; ***Release a Beta Version***
 - 🏁 &nbsp; ***Release the final Version***
 
-#### Backend Infrastructure:
-- ✔️ &nbsp; Get Server and Public domain
-- ✔️ &nbsp; Server site for Downloads
-- ✔️ &nbsp; Server site for Feedbacks
-- 🏁 &nbsp; ***Public Website***
-- 🏁 &nbsp; ***Cover the Server costs***
-
 #### Vector's Codelab:
 - ✔️ &nbsp; Custom Blocks support
 - ✔️ &nbsp; Fully dynamic Generator of Blocks
@@ -67,12 +60,19 @@ The application is designed to be intuitive, simple enough, fun and educational,
 - 🏁 &nbsp; ***Community Library: Sharing Block programs via the Server***
 - 🏁 &nbsp; ***Rating system for Blocks programs made by other users***
 
+#### Backend Infrastructure:
+- ✔️ &nbsp; Get Server and Public domain
+- ✔️ &nbsp; Server site for Downloads
+- ✔️ &nbsp; Server site for Feedbacks
+- 🏁 &nbsp; ***Public Website***
+- 🏁 &nbsp; ***Cover the Server costs***
+
 
 ## Phase II. - Cyb3rVector's Online Codelab
 
 Main Goal of this phase is to Port the CodeLab to platform independent Web environment hosted on own servers and Create tools for people to connect their Vectors to this Web Site.
 
-- ✔️ &nbsp; Proof of concept tests and trials [(online CodeLab here)](./codelab.html)
+- ✔️ &nbsp; Proof of concept tests and trials [(online CodeLab demo)](./codelab.html)
 - 🏁 &nbsp; ***Vector SDK/API adjusment***
 - 🏁 &nbsp; ***Server backend interpretter for existing Vector blocks***
 - 🏁 &nbsp; ***Server site CodeLab Enviroment***
