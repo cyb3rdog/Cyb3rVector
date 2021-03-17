@@ -5,29 +5,42 @@ Main instrument to achieve this goal is called **Vector's CodeLab** - a Blockly 
 This **CodeLab enviroment** and **Vector Robot** combined creates an ideal platform for young to develop variety of their skills and their love towards technology and robotics.
 I want this software to be available to anyone for free of charge, as I believe the education should be fun, playful and free.
 
-# DOWNLOADS
+## DOWNLOADS
 
 In case you're here for downloads, the links for you are right here:
 
 - [Windows installer (msi)](http://vector.phact.cz/download/Cyb3rVector-v0.9.48.msi)
 - [Windows portable (zip)](http://vector.phact.cz/download/Cyb3rVector-v0.9.48.zip)
 
-# SCREENSHOTS
+
+## SCREENSHOTS
 
 Here, you can take a look at some screenshots from the application, it's awesome:
 
+This screen displays how the CodeLab looks like in the application, with simple block program changing Vector's default behaviour. 
 ![Screenshot 01](https://github.com/cyb3rdog/Cyb3rVector/blob/gh-pages/assets/images/screen_01.png)
+
+This picture displays an overview of the main application screen, with Main Menu on the left, HeadUpDisplay Overlay of Battery status and History and Navigation map displayed as Minimap:
 ![Screenshot 02](https://github.com/cyb3rdog/Cyb3rVector/blob/gh-pages/assets/images/screen_02.png)
+
+This picture displays Navigation map displayed on fullscreen with a its legend in Help section:
 ![Screenshot 03](https://github.com/cyb3rdog/Cyb3rVector/blob/gh-pages/assets/images/screen_03.png)
+
+and this screenshot shows the info on how the Gamepad controller actions are mapped:
 ![Screenshot 04](https://github.com/cyb3rdog/Cyb3rVector/blob/gh-pages/assets/images/screen_04.png)
+
+and there's so much more, that it would consume all the space.... I'll make a video one day...
+
 
 ## ROADMAP
 
-To give you an insight of what happens under the hood, here is the project's [**ROADMAP**](https://github.com/cyb3rdog/Cyb3rVector/blob/main/ROADMAP.md).
+To give you an deeper insight of what is happening under the hood, here is the project's [**ROADMAP**](https://github.com/cyb3rdog/Cyb3rVector/blob/main/ROADMAP.md).
+
 
 ## CHANGELOG
 
 History of all the notable changes is being documented in the [**CHANGELOG**](https://github.com/cyb3rdog/Cyb3rVector/blob/main/CHANGELOG.md).
+
 
 ## CREDITS
 
@@ -45,12 +58,20 @@ I would like to thank to following people, without whom I couldn't have achieved
 - and finally, to my fammily for the infinite patience, infinite support and inifite love, whithout whom I would have never gotten this project so far
 and Thank You, for reading this through, and for your interrest in this project.
 
+
 ## LICENSE
 
 All right reserved. I don't know guys, AS IS, CC-BY-NC-ND, CC-TV, WTFPL, something like that.
 Educational and non-commercial is all fine, for commercial, you'll need to get in touch with me.
 
-Thanks for reading, and STAY TUNED!
+
+## THANK YOU
+
+Thanks for reading up to this point. In case you like this project, go ahead and try it out yourself.
+In case you already use the software, let me know what you thinkg, through the Feedback form in the application.
+
+STAY TUNED!
 
 Cheers,
+
 cyb3rdog
