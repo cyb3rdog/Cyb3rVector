@@ -54,14 +54,14 @@ I would like to thank to following people, without whom I couldn't have achieved
 - [**randym32**](https://github.com/randym32) for all he has done for the Vector community
 - [**GooeyChickenman**](https://github.com/GooeyChickenman) for all the efforts put into [project Victor](https://github.com/GooeyChickenman/victor)
 - [**Digital Dream Labs**](https://github.com/digital-dream-labs) for their necromancy skills while bringing the Vector Robot back from the dead
-- [**Anki, Inc.**](https://github.com/anki) for everything, what a pity guys, you've rocked. The legendary is literral here, thanks for your legacy
-- and finally, to my fammily for the infinite patience, infinite support and inifite love, whithout whom I would have never gotten this project so far
-and Thank You, for reading this through, and for your interrest in this project.
+- [**Anki, Inc.**](https://github.com/anki) for everything, what a pity guys, you've rocked. The legendary is literal here, thanks for your legacy
+- and finally, to my family for the infinite patience, infinite support and inifinite love, whithout whom I would have never gotten this project so far
+- and Thank You, for reading this through, and for your interrest in this project.
 
 
 ## LICENSE
 
-All rights reserved. I don't know guys, it is AS IS is, CC-BY-NC-ND, CC-TV, WTFPL, something like that.
+All rights reserved. I don't know guys, it is AS IS, CC-BY-NC-ND, CC-TV, WTFPL, something like that.
 Educational and non-commercial is all fine, for commercial, you'll need to get in touch with me.
 
 
