@@ -6,8 +6,8 @@ author: cyb3rdog
 theme: jekyll-theme-midnight
 show_downloads: true
 show_repository: true
-app_installer_url: "http://vector.phact.cz/download/Cyb3rVector-v0.9.48.msi"
-app_portable_url: "http://vector.phact.cz/download/Cyb3rVector-v0.9.48.zip"
+app_installer_url: "https://github.com/cyb3rdog/Cyb3rVector/releases/download/v0.9.48/Cyb3rVector-v0.9.48.msi"
+app_portable_url: "https://github.com/cyb3rdog/Cyb3rVector/releases/download/v0.9.48/Cyb3rVector-v0.9.48.zip"
 gems:
   - jekyll-redirect-from
   - jekyll-target-blank
