@@ -47,11 +47,12 @@ History of all the notable changes is being documented with every release in the
 I would like to thank to following people, without whom I couldn't have achieved what I achieved:
 
 - [**google/blockly**](https://github.com/google/blockly) developers for Blockly, which is simply awesome
-- [**codaris**](https://github.com/codaris) for his [Anki.Vector.SDK](https://github.com/codaris/Anki.Vector.SDK) and his [VectorExplorer](https://weekendrobot.com/vectorexplorer) app, which inspired me so, so much. (I did my best, to achieve similar look and feel)
+- [**codaris**](https://github.com/codaris) for his [Anki.Vector.SDK](https://github.com/codaris/Anki.Vector.SDK) and his [VectorExplorer](https://weekendrobot.com/vectorexplorer) app, which inspired me so incredibly much. (I did my best, to achieve similar "look & feel")
 - [**mahApps.metro**](https://github.com/MahApps/MahApps.Metro) framework and its developers for speeding the boring things up for me
 - [**zaront**](https://github.com/zaront), his [Vector SDK](https://github.com/zaront/vector) and his own [Vector.Explorer](https://github.com/zaront/vector) app
 - [**instantiator**](https://github.com/instantiator) and his [VectorPlus](https://github.com/instantiator/vector-plus) for realizing lots of inspirational ideas
-- [**randym32**](https://github.com/randym32) for all he has done for the Vector community
+- [**Colin Twigg**](https://github.com/RecognitionDesigns) for being an inspiration to me with his great ideas
+- [**randym32**](https://github.com/randym32) for all the hard work he has done for the Vector community 
 - [**GooeyChickenman**](https://github.com/GooeyChickenman) for all the efforts put into [project Victor](https://github.com/GooeyChickenman/victor)
 - [**Digital Dream Labs**](https://github.com/digital-dream-labs) for their necromancy skills while bringing the Vector Robot back from the dead
 - [**Anki, Inc.**](https://github.com/anki) for everything, what a pity guys, you've rocked. The legendary is literal here, thanks for your legacy
