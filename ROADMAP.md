@@ -27,6 +27,8 @@ The application is designed to be intuitive, simple enough, fun and educational,
 - ✔️ Help and Knowledge Base
 - ✔️ Feedback submition form
 - ✔️ Release of first public-alpha version
+- 🏁 ***Support for EscapePod Vector's***
+- 🏁 ***Anki account management***
 - 🏁 ***Look for Testers in public audiences***
 - 🏁 ***Collection of Error and Debug logs from testers***
 - 🏁 ***Release a Beta Version***

@@ -16,6 +16,7 @@
   * Ease of use
 - Vector's Camera stream feed
 - 2D NavMap overlay re-implementation (minimap or fullscreen)
+- NavMap Help knowledge base
 - HUD Battery statistics, Battery history
 - Driving with Keyboard
 - Driving with Gamepads/Controllers (beat the Cozmo mode)
@@ -24,5 +25,7 @@
 - Application Updater
 - Help and Knowledge Base
 - Feedback submition form
+- Name of Connected Vector in Title/overlay
+- Session and Anki Account info
 
 and more....

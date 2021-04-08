@@ -4,6 +4,40 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+
+## [0.9.51] - 2021-04-05
+
+- Awesomium renderer replaced with CEF
+- AppCore fully migrated to Net.Core
+- Refactoring and cleanup
+- Feedback Form moved to Main menu
+- ErrorLog can be sent from Feedback form
+- ErrorLog file versioned with app version
+- Battery percentage calculation temporarily removed
+- Added Easter Easter Egg
+- Added Splash screen
+
+## [0.9.50] - 2021-04-02
+
+- Bumped `Anki.Vector.SDK`
+- Bumped project dependencies
+- Refactored Robot Connections
+- Added Robot connectivity check
+- Added Session and Anki Account Details
+- Connect button connects to last robot
+
+## [0.9.49] - 2021-03-28
+
+- Added Robot Name to Window Title and HUD Overlay
+- Added new Setting for Displaying connected robot name
+- Added more info to Help & About and Controllers flyouts
+- Added automatic ControlRequest for driving with Keyboard
+- Bumped `Cyb3rBlock` - implicit conversions for field_slider
+- Fixed "Play Audio File" block's Volume control
+- Added AudioFeed processing (Debug build only)
+- Face events moved into 'Faces' category
+- Updated About and Credits
+
 ## [0.9.48] - 2021-03-15
 
 ### Released [0.9.48-alpha](https://github.com/cyb3rdog/Cyb3rV3ctor/releases/tag/v0.9.48)
