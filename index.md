@@ -48,10 +48,17 @@ Goal of this phase is to design the application to be intuitive, simple enough, 
 - ✔️ &nbsp; Help and Knowledge Base
 - ✔️ &nbsp; Feedback submition form
 - ✔️ &nbsp; Release of first public-alpha version
-- 🏁 &nbsp; ***Look for Testers in public audiences***
-- 🏁 &nbsp; ***Collection of Error and Debug logs from testers***
-- 🏁 &nbsp; ***Release a Beta Version***
-- 🏁 &nbsp; ***Release the final Version***
+- ✔️ &nbsp; Support for EscapePod Vector's
+- ✔️ &nbsp; Anki account management
+- ✔️ &nbsp; Look for Testers in public audiences
+- ✔️ &nbsp; Known faces management
+- ✔️ &nbsp; Alexa onboarding support
+- ✔️ &nbsp; Multiplatform code base
+- 🏁 ***Anki account management***
+- 🏁 ***Collection of Error and Debug logs from testers***
+- 🏁 ***Escape pod extension proxy and plugin***
+- 🏁 ***Release a Beta Version***
+- 🏁 ***Release the final Version***
 
 #### Vector's Codelab:
 - ✔️ &nbsp; Custom Blocks support
@@ -65,16 +72,17 @@ Goal of this phase is to design the application to be intuitive, simple enough, 
 - ✔️ &nbsp; Simple and Advanced modes
 - ✔️ &nbsp; Multi-language support
 - ✔️ &nbsp; Special fields for Slider,Angle,Date and Time
-- 🏁 &nbsp; ***Additional Blocks (FileSystem, WebAPI,...)***
-- 🏁 &nbsp; ***Find and license custom eyes animations***
-- 🏁 &nbsp; ***Translate lang files to various world languages***
-- 🏁 &nbsp; ***Community-made blocks: API for external modules***
-- 🏁 &nbsp; ***Community-made blocks: Support for Addons/Plugins***
-- 🏁 &nbsp; ***Escape Pod Extension for reacting to any speach transcription***
-- 🏁 &nbsp; ***Head-less execution mode (run block programs in background)***
-- 🏁 &nbsp; ***Background programs Task Manager and Scheduler***
-- 🏁 &nbsp; ***Community Library: Sharing Block programs via the Server***
-- 🏁 &nbsp; ***Rating system for Blocks programs made by other users***
+- ✔️ &nbsp; Additional Blocks (FileSystem, WebAPI,...)s
+- 🏁 ***Escape Pod Extension block for reacting to any phrase***
+- 🏁 ***In-app translation utilities***
+- 🏁 ***Translate lang files to various world languages***
+- 🏁 ***Community-made blocks: API for external modules***
+- 🏁 ***Community-made blocks: Support for Addons/Plugins***
+- 🏁 ***Find and license custom animations***
+- 🏁 ***Head-less execution mode (run block programs in background)***
+- 🏁 ***Background programs Task Manager and Scheduler***
+- 🏁 ***Community Library: Sharing Block programs via the Server***
+- 🏁 ***Rating system for Blocks programs made by other users***
 
 #### Backend Infrastructure:
 - ✔️ &nbsp; Get Server and Public domain
@@ -109,10 +117,13 @@ This stage will focus on creating a specific version of Vector's CodeLab which w
 
 
 ## Just a word before you go...
+I have made Cyb3rVector available to everyone for free of charge, and I need Your help to keep it that way.
+I am dedicating all my free time to this project, and it already brought some costs with it. Yet, as you can see, there is still plenty of work ahead and more expenses are yet to come.
 
-As you can see, there is still plenty of work ahead and I doubt I will make it to the finish line without your help and support.
-I am working on this project in my free time, over the evenings, nights and weekends, and I am not being payed for doing so in any ways.
-So if you want to help, you're very welcome to support this project by donating, or by joining me in testing and translating.
+That's why I need you, a passionate Vector owners, who will join me on this adventure and help me make this dream come true.
+There are some exclusive Rewards waiting for you on the Patreon page, so make sure you don't miss them :) Stay tuned and thanks for your support :)
+
+{% include donations.html %}
 
 Sincere Thanks!
 
