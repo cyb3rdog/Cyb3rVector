@@ -54,9 +54,8 @@ Goal of this phase is to design the application to be intuitive, simple enough, 
 - ✔️ &nbsp; Known faces management
 - ✔️ &nbsp; Alexa onboarding support
 - ✔️ &nbsp; Multiplatform code base
-- 🏁 ***Anki account management***
+- ✔️ &nbsp; Escape pod extension proxy and plugin
 - 🏁 ***Collection of Error and Debug logs from testers***
-- 🏁 ***Escape pod extension proxy and plugin***
 - 🏁 ***Release a Beta Version***
 - 🏁 ***Release the final Version***
 
@@ -72,8 +71,8 @@ Goal of this phase is to design the application to be intuitive, simple enough, 
 - ✔️ &nbsp; Simple and Advanced modes
 - ✔️ &nbsp; Multi-language support
 - ✔️ &nbsp; Special fields for Slider,Angle,Date and Time
-- ✔️ &nbsp; Additional Blocks (FileSystem, WebAPI,...)s
-- 🏁 ***Escape Pod Extension block for reacting to any phrase***
+- ✔️ &nbsp; Additional Blocks (FileSystem, WebAPI,...)
+- ✔️ &nbsp; Escape Pod Extension block for reacting to any phrase
 - 🏁 ***In-app translation utilities***
 - 🏁 ***Translate lang files to various world languages***
 - 🏁 ***Community-made blocks: API for external modules***
