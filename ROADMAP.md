@@ -27,9 +27,13 @@ The application is designed to be intuitive, simple enough, fun and educational,
 - ✔️ Help and Knowledge Base
 - ✔️ Feedback submition form
 - ✔️ Release of first public-alpha version
-- 🏁 ***Support for EscapePod Vector's***
-- 🏁 ***Anki account management***
-- 🏁 ***Look for Testers in public audiences***
+- ✔️ Support for EscapePod Vector's
+- ✔️ Anki account management
+- ✔️ Look for Testers in public audiences
+- ✔️ Known faces management
+- ✔️ Alexa onboarding support
+- ✔️ Multiplatform code base
+- ✔️ Escape pod extension proxy and plugin
 - 🏁 ***Collection of Error and Debug logs from testers***
 - 🏁 ***Release a Beta Version***
 - 🏁 ***Release the final Version***
@@ -46,12 +50,13 @@ The application is designed to be intuitive, simple enough, fun and educational,
 - ✔️ Simple and Advanced modes
 - ✔️ Multi-language support
 - ✔️ Special fields for Slider,Angle,Date and Time
-- 🏁 ***Additional Blocks (FileSystem, WebAPI,...)***
-- 🏁 ***Find and license custom eyes animations***
+- ✔️ Additional Blocks (FileSystem, WebAPI,...)
+- ✔️ Escape Pod Extension block for reacting to any phrase
+- 🏁 ***In-app translation utilities***
 - 🏁 ***Translate lang files to various world languages***
 - 🏁 ***Community-made blocks: API for external modules***
 - 🏁 ***Community-made blocks: Support for Addons/Plugins***
-- 🏁 ***Escape Pod Extension for reacting to any speach transcription***
+- 🏁 ***Find and license custom animations***
 - 🏁 ***Head-less execution mode (run block programs in background)***
 - 🏁 ***Background programs Task Manager and Scheduler***
 - 🏁 ***Community Library: Sharing Block programs via the Server***

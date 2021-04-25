@@ -4,6 +4,34 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.9.54] - 2021-04-25
+
+- Extension Proxy submodule Added as `Cyb3rPod`
+- Added deployment utility for EscapePod extension
+- Added 'On Keyword Heard' for processing any phrase
+- Factory for creating and deleting intents as needed
+- Bumbed submodules and dependencies
+
+## [0.9.53] - 2021-04-23
+
+- Connection simplified for escapepod robots
+- Additional connection info for escape pod robot
+- List of Known Faces moved from Stats to Settings
+- Added detailed info for Known faces in Settings
+- 'Commands Menu' icon changes with robot states
+- Added First EscapePod blocks
+
+## [0.9.52] - 2021-04-16
+
+- Added support for EscapePod and EP+OSRK Robots
+- Added option to export config for python sdk
+- Added Settings for Alexa login and logout
+- Added managment of Known Faces
+- Added missing firmware update states
+- Added email field to feedback for replies
+- Menu icons has been slightly enlarged
+- Bumped `Anki.Vector.SDK`
+- Source clean up
 
 ## [0.9.51] - 2021-04-05
 
