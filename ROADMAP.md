@@ -33,6 +33,7 @@ The application is designed to be intuitive, simple enough, fun and educational,
 - ✔️ Known faces management
 - ✔️ Alexa onboarding support
 - ✔️ Multiplatform code base
+- ✔️ Firwmare update feature
 - ✔️ Escape pod extension proxy and plugin
 - 🏁 ***Collection of Error and Debug logs from testers***
 - 🏁 ***Release a Beta Version***

@@ -4,6 +4,37 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+
+## [0.9.56] - 2021-05-09
+
+### Released [0.9.48-alpha](https://github.com/cyb3rdog/Cyb3rV3ctor/releases/tag/v0.9.56)
+
+- Stats sensory score divided by 10 as in the mobile app
+- Added Stats firmware download progress and update feature
+- Added new Codelab category for Voice Command 
+- Refactored Intents for futureproof usability
+- WakeWordEnd and UserItents unified to OnVoiceCommand
+- Enum events represented as dropdown blocks
+- Export python SDK certificate file standardized
+- EscapePod specific blocks hidden for non-EscapePod robots
+- Settings Known faces minor improvements
+- Blockly language files regenerated
+- Updated Codelab library demos
+- Bumbed and versioned submodules
+
+## [0.9.55] - 2021-05-02
+
+- MSI Installer refactored, prerequisites included
+- Added Initialization prerequisities checks
+- Added ShowCase blocks
+- Added Latency information to Statistics
+- Fixed Blockly program autosave feature
+- Fixed Keyboard Shift Key handling
+- Fixed Controller auto-control feature
+- Minimum controller poll set to 50, default to 150
+- Controller mapping configuration improved
+- Bumbed submodules and dependencies
+
 ## [0.9.54] - 2021-04-25
 
 - Extension Proxy submodule Added as `Cyb3rPod`
