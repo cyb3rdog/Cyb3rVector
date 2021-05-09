@@ -7,7 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [0.9.56] - 2021-05-09
 
-### Released [0.9.48-alpha](https://github.com/cyb3rdog/Cyb3rV3ctor/releases/tag/v0.9.56)
+### Released [0.9.56-alpha](https://github.com/cyb3rdog/Cyb3rV3ctor/releases/tag/v0.9.56)
 
 - Stats sensory score divided by 10 as in the mobile app
 - Added Stats firmware download progress and update feature
