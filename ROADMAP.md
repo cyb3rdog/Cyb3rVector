@@ -85,14 +85,14 @@ Main Goal of this phase is to Port the CodeLab to platform independent Web envir
 - 🏁 ***Client Proxy apps Built for Android and Iphone***
 
 
-## Phase III. - Cyb3rVector's Codelab Firmware
+## Phase III. - Cyb3rVector's Codelab Software
 
-This stage will focus on creating a specific version of Vector's CodeLab which will be hosted directly from Vector, allowing the users to login to Vector's CodeLab hosted on Vector's firmware from any device in the local network.
+This stage will focus on creating a specific version of Vector's CodeLab which will be hosted directly from Vector, allowing the users to login to Vector's CodeLab hosted on Vector's software from any device in the local network.
 
 - 🏁 ***Obtaining OSKR***
 - 🏁 ***Creating CodeLab port to run directly from Vector***
-- 🏁 ***Deploying the CodeLab port to OSKR Firmware***
-- 🏁 ***Extending the Firmware and CodeLab capabilities***
+- 🏁 ***Deploying the CodeLab port to OSKR Software***
+- 🏁 ***Extending the Software and CodeLab capabilities***
 
 
 ## Just a word before you go...
