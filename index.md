@@ -10,6 +10,11 @@ This **CodeLab enviroment** and **Vector Robot** combined creates an ideal platf
 I want this software to be available to anyone for free of charge, as I believe the education should be fun, playful and free.
 
 
+# FEATURES
+
+List of some of the highlighted Cyb3rVector features is available [**here**](./features.html)
+
+
 # FREQUENTLY ASKED QUESTIONS
 
 Visit the project's [GitHub Discussions](https://github.com/cyb3rdog/Cyb3rVector/discussions/categories/q-a) section for the answers to most frequently asked questions.
