@@ -24,7 +24,7 @@ Take a look at some screenshots from the application:
 
 # FREQUENTLY ASKED QUESTIONS
 
-Visit the project's [(GitHub Discussions)](https://github.com/cyb3rdog/Cyb3rVector/discussions/categories/q-a) section for the answers to most frequently asked questions.
+Visit the project's [GitHub Discussions](https://github.com/cyb3rdog/Cyb3rVector/discussions/categories/q-a) section for the answers to most frequently asked questions.
 
 
 # ROADMAP
@@ -125,11 +125,11 @@ This stage will focus on creating a specific version of Vector's CodeLab which w
 
 Here are the other Vector related projects I am working on:
 
-- [(Vector Pyhton SDK)](https://github.com/cyb3rdog/vector-python-sdk) - the only python SDK with support for EscapePod and OSKR robots.
-- [(Vector Node.js SDK)](https://github.com/cyb3rdog/anki-vector-nodejs)
-- [(Vector GO SDK)](https://github.com/cyb3rdog/vector-go-sdk)
-- [(EscapePod Extensions)](https://github.com/cyb3rdog/escape-pod-extension)
-- [(EscapePod Docker Image)](https://github.com/cyb3rdog/escapepod-docker)
+- [Vector Pyhton SDK](https://github.com/cyb3rdog/vector-python-sdk) - the only python SDK with support for EscapePod and OSKR robots.
+- [Vector Node.js SDK](https://github.com/cyb3rdog/anki-vector-nodejs)
+- [Vector GO SDK](https://github.com/cyb3rdog/vector-go-sdk)
+- [EscapePod Extensions](https://github.com/cyb3rdog/escape-pod-extension)
+- [EscapePod Docker Image](https://github.com/cyb3rdog/escapepod-docker)
 
 
 ## Just a word before you go...

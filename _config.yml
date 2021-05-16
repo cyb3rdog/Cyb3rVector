@@ -14,7 +14,3 @@ gems:
   - jekyll-target-blank
   - jekyll-paginate
   - jemoji
-plugins:
-  - jekyll-redirect-from
-  - jekyll-target-blank
-  - jemoji
