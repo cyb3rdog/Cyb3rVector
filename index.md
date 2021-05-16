@@ -15,6 +15,15 @@ I want this software to be available to anyone for free of charge, as I believe 
 List of some of the highlighted Cyb3rVector features is available [here](./features.html)
 
 
+# DOWNLOADS
+
+{::options parse_block_html="true" /}
+<ul>
+<li><a href="{{ site.app_installer_url}}" target="_blank">Windows installer (msi)</a></li>
+<li><a href="{{ site.app_portable_url }}" target="_blank">Windows portable (zip)</a></li>
+</ul>
+{::options parse_block_html="false" /}
+
 # FREQUENTLY ASKED QUESTIONS
 
 Visit the project's [GitHub Discussions](https://github.com/cyb3rdog/Cyb3rVector/discussions/categories/q-a) section for the answers to most frequently asked questions.
