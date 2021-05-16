@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.9.57] - 2021-05-16
+
+- Added "special" parsing for OSKR version numbers
+- Fixed EscapePod Extension deployment visibility for OSKR robots
+- Added Destination path dialog to MSI installer
+- NavMap moved to separated module
+- NavMap new SDK image used for Vector
+- Settings changes take effect inmediately
+- Bumped submodules
 
 ## [0.9.56] - 2021-05-09
 

@@ -9,8 +9,13 @@ I want this software to be available to anyone for free of charge, as I believe 
 
 In case you're here for downloads, the links are right there:
 
-- [Windows installer (msi)](https://github.com/cyb3rdog/Cyb3rVector/releases/download/v0.9.48/Cyb3rVector-v0.9.48.msi)
-- [Windows portable (zip)](https://github.com/cyb3rdog/Cyb3rVector/releases/download/v0.9.48/Cyb3rVector-v0.9.48.zip)
+- [Windows installer (msi)](https://github.com/cyb3rdog/Cyb3rVector/releases/download/v0.9.57/Cyb3rVector-v0.9.57.msi)
+- [Windows portable (zip)](https://github.com/cyb3rdog/Cyb3rVector/releases/download/v0.9.57/Cyb3rVector-v0.9.57.zip)
+
+
+## FREQUENTLY ASKED QUESTIONS
+
+Visit the [**GitHub Discussions**](https://github.com/cyb3rdog/Cyb3rVector/discussions/categories/q-a) section for answers to most frequently asked questions.
 
 
 ## SCREENSHOTS
