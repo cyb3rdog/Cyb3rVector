@@ -22,6 +22,11 @@ Take a look at some screenshots from the application:
 </div><p></p>
 {::options parse_block_html="false" /}
 
+# FREQUENTLY ASKED QUESTIONS
+
+Visit the project's [(GitHub Discussions)](https://github.com/cyb3rdog/Cyb3rVector/discussions/categories/q-a) section for the answers to most frequently asked questions.
+
+
 # ROADMAP
 
 This document describes the milestones of the Cyb3rVector project:
@@ -54,6 +59,7 @@ Goal of this phase is to design the application to be intuitive, simple enough, 
 - ✔️ &nbsp; Known faces management
 - ✔️ &nbsp; Alexa onboarding support
 - ✔️ &nbsp; Multiplatform code base
+- ✔️ &nbsp; Firwmare update feature
 - ✔️ &nbsp; Escape pod extension proxy and plugin
 - 🏁 ***Collection of Error and Debug logs from testers***
 - 🏁 ***Release a Beta Version***
@@ -105,14 +111,25 @@ Main Goal of this phase is to Port the CodeLab to platform independent Web envir
 - 🏁 &nbsp; ***Client Proxy apps Built for Android and Iphone***
 
 
-## Phase III. - Cyb3rVector's Codelab Firmware
+## Phase III. - Cyb3rVector's Codelab Software
 
 This stage will focus on creating a specific version of Vector's CodeLab which will be hosted directly from Vector, allowing the users to login to Vector's CodeLab hosted on Vector's firmware from any device in the local network.
 
 - 🏁 &nbsp; ***Obtaining OSKR***
 - 🏁 &nbsp; ***Creating CodeLab port to run directly from Vector***
-- 🏁 &nbsp; ***Deploying the CodeLab port to OSKR Firmware***
-- 🏁 &nbsp; ***Extending the Firmware and CodeLab capabilities***
+- 🏁 &nbsp; ***Deploying the CodeLab port to OSKR Software***
+- 🏁 &nbsp; ***Extending the Software and CodeLab capabilities***
+
+
+# OTHER VECTOR PROJECTS
+
+Here are the other Vector related projects I am working on:
+
+- [(Vector Pyhton SDK)](https://github.com/cyb3rdog/vector-python-sdk) - the only python SDK with support for EscapePod and OSKR robots.
+- [(Vector Node.js SDK)](https://github.com/cyb3rdog/anki-vector-nodejs)
+- [(Vector GO SDK)](https://github.com/cyb3rdog/vector-go-sdk)
+- [(EscapePod Extensions)](https://github.com/cyb3rdog/escape-pod-extension)
+- [(EscapePod Docker Image)](https://github.com/cyb3rdog/escapepod-docker)
 
 
 ## Just a word before you go...
