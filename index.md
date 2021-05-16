@@ -12,12 +12,16 @@ I want this software to be available to anyone for free of charge, as I believe 
 
 # FEATURES
 
-List of some of the highlighted Cyb3rVector features is available [**here**](./features.html)
+List of some of the highlighted Cyb3rVector features is available [here](./features.html)
 
 
 # FREQUENTLY ASKED QUESTIONS
 
 Visit the project's [GitHub Discussions](https://github.com/cyb3rdog/Cyb3rVector/discussions/categories/q-a) section for the answers to most frequently asked questions.
+
+To cover the top #1 Question:
+- Do I need DDL subscription / EscapePod / OSKR / Do i need to know SDK?
+   * No, you don't, it is designed to work for all the Vector's out there.
 
 
 # GALLERY
