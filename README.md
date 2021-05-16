@@ -5,6 +5,11 @@ Main instrument to achieve this goal is called **Vector's CodeLab** - a Blockly 
 This **CodeLab enviroment** and **Vector Robot** combined creates an ideal platform for young to develop variety of their skills and their love towards technology and robotics.
 I want this software to be available to anyone for free of charge, as I believe the education should be fun, playful and free.
 
+## FEATURES
+
+List of some of the highlighted features is available [**here**](https://github.com/cyb3rdog/Cyb3rVector/blob/main/FEATURES.md).
+
+
 ## DOWNLOADS
 
 In case you're here for downloads, the links are right there:
@@ -46,7 +51,7 @@ I would like to thank to following people, without whom I couldn't have achieved
 - [**mahApps.metro**](https://github.com/MahApps/MahApps.Metro) framework and its developers for speeding the boring things up for me
 - [**instantiator**](https://github.com/instantiator) and his [VectorPlus](https://github.com/instantiator/vector-plus) for realizing lots of inspirational ideas
 - [**Colin Twigg**](https://github.com/RecognitionDesigns) for being an inspiration to me with his great ideas
-- [**Randall Maas**](https://github.com/randym32) for all the hard work he has done for the Vector community 
+- [**Randall Maas**](https://github.com/randym32) for all the hard work he has done for the Vector community
 - [**Gooey Chickenman**](https://github.com/GooeyChickenman) for all the efforts put into [project Victor](https://github.com/GooeyChickenman/victor)
 - [**Digital Dream Labs**](https://github.com/digital-dream-labs) for their necromancy skills while bringing the Vector Robot back from the dead
 - [**Anki, Inc.**](https://github.com/anki) for everything, what a pity guys, you've rocked. The legendary is literal here, thanks for your legacy
