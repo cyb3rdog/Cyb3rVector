@@ -9,6 +9,14 @@ Main instrument to achieve this goal is called **Vector's CodeLab** - a Blockly 
 This **CodeLab enviroment** and **Vector Robot** combined creates an ideal platform for young to develop their skills and love towards technology and robotics.
 I want this software to be available to anyone for free of charge, as I believe the education should be fun, playful and free.
 
+
+# FREQUENTLY ASKED QUESTIONS
+
+Visit the project's [GitHub Discussions](https://github.com/cyb3rdog/Cyb3rVector/discussions/categories/q-a) section for the answers to most frequently asked questions.
+
+
+# GALLERY
+
 Take a look at some screenshots from the application:
 
 {::options parse_block_html="true" /}
@@ -21,10 +29,6 @@ Take a look at some screenshots from the application:
 {::options parse_block_html="true" /}
 </div><p></p>
 {::options parse_block_html="false" /}
-
-# FREQUENTLY ASKED QUESTIONS
-
-Visit the project's [GitHub Discussions](https://github.com/cyb3rdog/Cyb3rVector/discussions/categories/q-a) section for the answers to most frequently asked questions.
 
 
 # ROADMAP
