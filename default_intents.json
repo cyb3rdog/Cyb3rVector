@@ -1,0 +1,296 @@
+[
+  {
+    "sdk_id": 0,
+    "sdk_type": "character_age",
+    "intent_name": "intent_character_age",
+    "description": "What is your Age?",
+    "min_version": "1.3.0.2510"
+  },
+  {
+    "sdk_id": 1,
+    "sdk_type": "check_timer",
+    "intent_name": "intent_clock_checktimer",
+    "description": "Check the Timer",
+    "min_version": null
+  },
+  {
+    "sdk_id": 2,
+    "sdk_type": "explore_start",
+    "intent_name": "intent_explore_start",
+    "description": "Go Explore",
+    "min_version": null
+  },
+  {
+    "sdk_id": 3,
+    "sdk_type": "global_stop",
+    "intent_name": "intent_global_stop_extend",
+    "description": "Stop the Timer",
+    "min_version": null
+  },
+  {
+    "sdk_id": 4,
+    "sdk_type": "greeting_goodbye",
+    "intent_name": "intent_greeting_goodbye",
+    "description": "Greeting Goodbye",
+    "min_version": null
+  },
+  {
+    "sdk_id": 5,
+    "sdk_type": "greeting_goodmorning",
+    "intent_name": "intent_greeting_goodmorning",
+    "description": "Greeting Good Morning",
+    "min_version": null
+  },
+  {
+    "sdk_id": 6,
+    "sdk_type": "greeting_hello",
+    "intent_name": "intent_greeting_hello",
+    "description": "Greeting Hello",
+    "min_version": null
+  },
+  {
+    "sdk_id": 7,
+    "sdk_type": "imperative_abuse",
+    "intent_name": "intent_imperative_abuse",
+    "description": "I Hate You",
+    "min_version": null
+  },
+  {
+    "sdk_id": 8,
+    "sdk_type": "imperative_affirmative",
+    "intent_name": "intent_imperative_affirmative",
+    "description": "Yes!",
+    "min_version": null
+  },
+  {
+    "sdk_id": 9,
+    "sdk_type": "imperative_apology",
+    "intent_name": "intent_imperative_apologize",
+    "description": "I'm Sorry",
+    "min_version": null
+  },
+  {
+    "sdk_id": 10,
+    "sdk_type": "imperative_come",
+    "intent_name": "intent_imperative_come",
+    "description": "Come Here",
+    "min_version": null
+  },
+  {
+    "sdk_id": 11,
+    "sdk_type": "imperative_dance",
+    "intent_name": "intent_imperative_dance",
+    "description": "Dance",
+    "min_version": null
+  },
+  {
+    "sdk_id": 12,
+    "sdk_type": "imperative_fetchcube",
+    "intent_name": "intent_imperative_fetchcube",
+    "description": "Fetch Your Cube",
+    "min_version": "1.1.0.2106"
+  },
+  {
+    "sdk_id": 13,
+    "sdk_type": "imperative_findcube",
+    "intent_name": "intent_imperative_findcube",
+    "description": "Find Your Cube",
+    "min_version": "1.1.0.2106"
+  },
+  {
+    "sdk_id": 14,
+    "sdk_type": "imperative_lookatme",
+    "intent_name": "intent_imperative_lookatme",
+    "description": "Look At Me",
+    "min_version": null
+  },
+  {
+    "sdk_id": 15,
+    "sdk_type": "imperative_love",
+    "intent_name": "intent_imperative_love",
+    "description": "I love You",
+    "min_version": null
+  },
+  {
+    "sdk_id": 16,
+    "sdk_type": "imperative_praise",
+    "intent_name": "intent_imperative_praise",
+    "description": "Good Robot",
+    "min_version": null
+  },
+  {
+    "sdk_id": 17,
+    "sdk_type": "imperative_negative",
+    "intent_name": "intent_imperative_negative",
+    "description": "No!",
+    "min_version": null
+  },
+  {
+    "sdk_id": 18,
+    "sdk_type": "imperative_scold",
+    "intent_name": "intent_imperative_scold",
+    "description": "Bad Robot",
+    "min_version": null
+  },
+  {
+    "sdk_id": 19,
+    "sdk_type": "imperative_volumelevel",
+    "intent_name": "intent_imperative_volumelevel_extend",
+    "description": "Set Volume to...",
+    "min_version": "1.2.1.2343"
+  },
+  {
+    "sdk_id": 20,
+    "sdk_type": "imperative_volumeup",
+    "intent_name": "intent_imperative_volumeup",
+    "description": "Volume Up",
+    "min_version": "1.2.1.2343"
+  },
+  {
+    "sdk_id": 21,
+    "sdk_type": "imperative_volumedown",
+    "intent_name": "intent_imperative_volumedown",
+    "description": "Volume Down",
+    "min_version": "1.2.1.2343"
+  },
+  {
+    "sdk_id": 22,
+    "sdk_type": "movement_forward",
+    "intent_name": "intent_imperative_forward",
+    "description": "Go Forward",
+    "min_version": "1.2.1.2343"
+  },
+  {
+    "sdk_id": 23,
+    "sdk_type": "movement_backward",
+    "intent_name": "intent_imperative_backup",
+    "description": "Go Backward",
+    "min_version": "1.2.1.2343"
+  },
+  {
+    "sdk_id": 24,
+    "sdk_type": "movement_turnleft",
+    "intent_name": "intent_imperative_turnleft",
+    "description": "Turn Left",
+    "min_version": "1.2.1.2343"
+  },
+  {
+    "sdk_id": 25,
+    "sdk_type": "movement_turnright",
+    "intent_name": "intent_imperative_turnright",
+    "description": "Turn Right",
+    "min_version": "1.2.1.2343"
+  },
+  {
+    "sdk_id": 26,
+    "sdk_type": "movement_turnaround",
+    "intent_name": "intent_imperative_turnaround",
+    "description": "Turn Around",
+    "min_version": "1.2.1.2343"
+  },
+  {
+    "sdk_id": 27,
+    "sdk_type": "knowledge_question",
+    "intent_name": "intent_play_cantdo",
+    "description": "I have a Question",
+    "min_version": null
+  },
+  {
+    "sdk_id": 28,
+    "sdk_type": "names_ask",
+    "intent_name": "intent_names_ask",
+    "description": "What's my name?",
+    "min_version": null
+  },
+  {
+    "sdk_id": 29,
+    "sdk_type": "play_anygame",
+    "intent_name": "intent_play_anygame",
+    "description": "Play a Game",
+    "min_version": null
+  },
+  {
+    "sdk_id": 30,
+    "sdk_type": "play_anytrick",
+    "intent_name": "intent_play_anytrick",
+    "description": "Play a Trick",
+    "min_version": null
+  },
+  {
+    "sdk_id": 31,
+    "sdk_type": "play_blackjack",
+    "intent_name": "intent_play_blackjack",
+    "description": "Play Blackjack",
+    "min_version": null
+  },
+  {
+    "sdk_id": 32,
+    "sdk_type": "play_fistbump",
+    "intent_name": "intent_play_fistbump",
+    "description": "Fist Bump",
+    "min_version": null
+  },
+  {
+    "sdk_id": 33,
+    "sdk_type": "play_pickupcube",
+    "intent_name": "intent_play_pickupcube",
+    "description": "Pick up Your Cube",
+    "min_version": "1.1.0.2106"
+  },
+  {
+    "sdk_id": 34,
+    "sdk_type": "play_popawheelie",
+    "intent_name": "intent_play_popawheelie",
+    "description": "Pop a Wheelie",
+    "min_version": "1.1.0.2106"
+  },
+  {
+    "sdk_id": 35,
+    "sdk_type": "play_rollcube",
+    "intent_name": "intent_play_rollcube",
+    "description": "Roll Your Cube",
+    "min_version": "1.1.0.2106"
+  },
+  {
+    "sdk_id": 36,
+    "sdk_type": "seasonal_happyholidays",
+    "intent_name": "intent_seasonal_happyholidays",
+    "description": "Happy Holidays",
+    "min_version": "1.2.1.2343"
+  },
+  {
+    "sdk_id": 37,
+    "sdk_type": "seasonal_happynewyear",
+    "intent_name": "intent_seasonal_happynewyear",
+    "description": "Happy New Year",
+    "min_version": "1.2.1.2343"
+  },
+  {
+    "sdk_id": 38,
+    "sdk_type": "set_timer",
+    "intent_name": "intent_clock_settimer_extend",
+    "description": "Set Timer for...",
+    "min_version": null
+  },
+  {
+    "sdk_id": 39,
+    "sdk_type": "show_clock",
+    "intent_name": "intent_clock_time",
+    "description": "What Time Is It?",
+    "min_version": null
+  },
+  {
+    "sdk_id": 40,
+    "sdk_type": "take_a_photo",
+    "intent_name": "intent_photo_take_extend",
+    "description": "Take a Selfie",
+    "min_version": null
+  },
+  {
+    "sdk_id": 41,
+    "sdk_type": "weather_response",
+    "intent_name": "intent_weather_extend",
+    "description": "What is the Weather?",
+    "min_version": null
+  }
+]
